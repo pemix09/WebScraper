@@ -1,2 +1,2 @@
 # WebScraper
-Simple Web sraper
+Simple Web scraper
